@@ -1,0 +1,30 @@
+.pagination-container {
+    margin-bottom: 50px;
+}
+
+.pagination-container button {
+    font-size: 25px;
+    padding: 10px 20px;
+    margin: 0 20px;
+    background-color: rgb(242, 233, 197);
+    border-radius: 8px;
+}
+
+.pagination-container button:hover {
+    background-color: rgb(236, 201, 75);
+    transform: scale(1.2);
+    transition: transform 1s ease-in-out;
+}
+
+.pagination-container .selected {
+    background-color: gold;
+    font-weight: 500;
+
+}
+
+.drop-down {
+    padding: 10px 10px;
+    font-size: larger;
+    font-weight: 500;
+    border: none;
+}

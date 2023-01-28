@@ -1,0 +1,92 @@
+[
+    {
+        "_id": 1,
+        "name": "Harry Potter and The Cursed Child",
+        "theatre": "Bongo Cineplex",
+        "slots": [
+            "08.00 AM - 10.00 AM",
+            "10.00 AM - 12.00 AM",
+            "12.00 AM - 2.00 PM",
+            "2.00 PM - 4.00 PM",
+            "4.00 PM - 6.00 PM",
+            "6.00 PM - 8.00 PM",
+            "8.00 PM - 10.00 PM",
+            "10.00 PM - 12.00 PM"
+        ]
+    },
+    {
+        "_id": 2,
+        "name": "Avatar 2",
+        "theatre": "Bongo Cineplex",
+        "slots": [
+            "08.00 AM - 10.00 AM",
+            "10.00 AM - 12.00 AM",
+            "12.00 AM - 2.00 PM",
+            "2.00 PM - 4.00 PM",
+            "4.00 PM - 6.00 PM",
+            "6.00 PM - 8.00 PM",
+            "8.00 PM - 10.00 PM",
+            "10.00 PM - 12.00 PM"
+        ]
+    },
+    {
+        "_id": 3,
+        "name": "Avengers 4",
+        "theatre": "Bongo Cineplex",
+        "slots": [
+            "08.00 AM - 10.00 AM",
+            "10.00 AM - 12.00 AM",
+            "12.00 AM - 2.00 PM",
+            "2.00 PM - 4.00 PM",
+            "4.00 PM - 6.00 PM",
+            "6.00 PM - 8.00 PM",
+            "8.00 PM - 10.00 PM",
+            "10.00 PM - 12.00 PM"
+        ]
+    },
+    {
+        "_id": 4,
+        "name": "John Wick 4",
+        "theatre": "Bongo Cineplex",
+        "slots": [
+            "08.00 AM - 10.00 AM",
+            "10.00 AM - 12.00 AM",
+            "12.00 AM - 2.00 PM",
+            "2.00 PM - 4.00 PM",
+            "4.00 PM - 6.00 PM",
+            "6.00 PM - 8.00 PM",
+            "8.00 PM - 10.00 PM",
+            "10.00 PM - 12.00 PM"
+        ]
+    },
+    {
+        "_id": 5,
+        "name": "Iron Man 5",
+        "theatre": "Bongo Cineplex",
+        "slots": [
+            "08.00 AM - 10.00 AM",
+            "10.00 AM - 12.00 AM",
+            "12.00 AM - 2.00 PM",
+            "2.00 PM - 4.00 PM",
+            "4.00 PM - 6.00 PM",
+            "6.00 PM - 8.00 PM",
+            "8.00 PM - 10.00 PM",
+            "10.00 PM - 12.00 PM"
+        ]
+    },
+    {
+        "_id": 6,
+        "name": "KGF 3",
+        "theatre": "Bongo Cineplex",
+        "slots": [
+            "08.00 AM - 10.00 AM",
+            "10.00 AM - 12.00 AM",
+            "12.00 AM - 2.00 PM",
+            "2.00 PM - 4.00 PM",
+            "4.00 PM - 6.00 PM",
+            "6.00 PM - 8.00 PM",
+            "8.00 PM - 10.00 PM",
+            "10.00 PM - 12.00 PM"
+        ]
+    }
+]
